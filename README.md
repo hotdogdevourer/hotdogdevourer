@@ -5,4 +5,4 @@ About me:
 - I do coding as a hobby
 - All of my projects are MIT (despite what some of my repositories might show)
 
-I'm currently working on Termtools, a single-header library with a couple functions and whatnot, there are still a lot of stub(s)
+I'm currently working on Rijam, a cool number generator that generates big numbers
